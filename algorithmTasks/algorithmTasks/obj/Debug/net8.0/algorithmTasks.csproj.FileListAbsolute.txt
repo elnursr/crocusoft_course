@@ -1,0 +1,15 @@
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\bin\Debug\net8.0\algorithmTasks.exe
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\bin\Debug\net8.0\algorithmTasks.deps.json
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\bin\Debug\net8.0\algorithmTasks.runtimeconfig.json
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\bin\Debug\net8.0\algorithmTasks.dll
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\bin\Debug\net8.0\algorithmTasks.pdb
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\obj\Debug\net8.0\algorithmTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\obj\Debug\net8.0\algorithmTasks.AssemblyInfoInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\obj\Debug\net8.0\algorithmTasks.AssemblyInfo.cs
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\obj\Debug\net8.0\algorithmTasks.csproj.CoreCompileInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\obj\Debug\net8.0\algorithmTasks.dll
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\obj\Debug\net8.0\refint\algorithmTasks.dll
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\obj\Debug\net8.0\algorithmTasks.pdb
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\obj\Debug\net8.0\algorithmTasks.genruntimeconfig.cache
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\obj\Debug\net8.0\ref\algorithmTasks.dll
+C:\Users\x_pc\Documents\crocusoft_course\algorithmTasks\algorithmTasks\obj\Debug\net8.0\algorithmTasks.sourcelink.json

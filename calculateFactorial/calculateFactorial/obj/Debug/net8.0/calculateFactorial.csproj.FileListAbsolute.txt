@@ -1,0 +1,14 @@
+C:\Users\x_pc\Documents\crocusoft_course\calculateFactorial\calculateFactorial\bin\Debug\net8.0\calculateFactorial.exe
+C:\Users\x_pc\Documents\crocusoft_course\calculateFactorial\calculateFactorial\bin\Debug\net8.0\calculateFactorial.deps.json
+C:\Users\x_pc\Documents\crocusoft_course\calculateFactorial\calculateFactorial\bin\Debug\net8.0\calculateFactorial.runtimeconfig.json
+C:\Users\x_pc\Documents\crocusoft_course\calculateFactorial\calculateFactorial\bin\Debug\net8.0\calculateFactorial.dll
+C:\Users\x_pc\Documents\crocusoft_course\calculateFactorial\calculateFactorial\bin\Debug\net8.0\calculateFactorial.pdb
+C:\Users\x_pc\Documents\crocusoft_course\calculateFactorial\calculateFactorial\obj\Debug\net8.0\calculateFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_pc\Documents\crocusoft_course\calculateFactorial\calculateFactorial\obj\Debug\net8.0\calculateFactorial.AssemblyInfoInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\calculateFactorial\calculateFactorial\obj\Debug\net8.0\calculateFactorial.AssemblyInfo.cs
+C:\Users\x_pc\Documents\crocusoft_course\calculateFactorial\calculateFactorial\obj\Debug\net8.0\calculateFactorial.csproj.CoreCompileInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\calculateFactorial\calculateFactorial\obj\Debug\net8.0\calculateFactorial.dll
+C:\Users\x_pc\Documents\crocusoft_course\calculateFactorial\calculateFactorial\obj\Debug\net8.0\refint\calculateFactorial.dll
+C:\Users\x_pc\Documents\crocusoft_course\calculateFactorial\calculateFactorial\obj\Debug\net8.0\calculateFactorial.pdb
+C:\Users\x_pc\Documents\crocusoft_course\calculateFactorial\calculateFactorial\obj\Debug\net8.0\calculateFactorial.genruntimeconfig.cache
+C:\Users\x_pc\Documents\crocusoft_course\calculateFactorial\calculateFactorial\obj\Debug\net8.0\ref\calculateFactorial.dll

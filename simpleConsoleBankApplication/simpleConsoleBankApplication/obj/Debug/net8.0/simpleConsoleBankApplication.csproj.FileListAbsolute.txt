@@ -1,0 +1,14 @@
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleBankApplication\simpleConsoleBankApplication\bin\Debug\net8.0\simpleConsoleBankApplication.exe
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleBankApplication\simpleConsoleBankApplication\bin\Debug\net8.0\simpleConsoleBankApplication.deps.json
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleBankApplication\simpleConsoleBankApplication\bin\Debug\net8.0\simpleConsoleBankApplication.runtimeconfig.json
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleBankApplication\simpleConsoleBankApplication\bin\Debug\net8.0\simpleConsoleBankApplication.dll
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleBankApplication\simpleConsoleBankApplication\bin\Debug\net8.0\simpleConsoleBankApplication.pdb
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleBankApplication\simpleConsoleBankApplication\obj\Debug\net8.0\simpleConsoleBankApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleBankApplication\simpleConsoleBankApplication\obj\Debug\net8.0\simpleConsoleBankApplication.AssemblyInfoInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleBankApplication\simpleConsoleBankApplication\obj\Debug\net8.0\simpleConsoleBankApplication.AssemblyInfo.cs
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleBankApplication\simpleConsoleBankApplication\obj\Debug\net8.0\simpleConsoleBankApplication.csproj.CoreCompileInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleBankApplication\simpleConsoleBankApplication\obj\Debug\net8.0\simpleConsoleBankApplication.dll
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleBankApplication\simpleConsoleBankApplication\obj\Debug\net8.0\refint\simpleConsoleBankApplication.dll
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleBankApplication\simpleConsoleBankApplication\obj\Debug\net8.0\simpleConsoleBankApplication.pdb
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleBankApplication\simpleConsoleBankApplication\obj\Debug\net8.0\simpleConsoleBankApplication.genruntimeconfig.cache
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleBankApplication\simpleConsoleBankApplication\obj\Debug\net8.0\ref\simpleConsoleBankApplication.dll
