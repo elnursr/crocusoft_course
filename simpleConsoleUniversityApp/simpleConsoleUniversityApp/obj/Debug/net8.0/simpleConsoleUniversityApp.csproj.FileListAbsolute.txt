@@ -1,0 +1,15 @@
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\bin\Debug\net8.0\simpleConsoleUniversityApp.exe
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\bin\Debug\net8.0\simpleConsoleUniversityApp.deps.json
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\bin\Debug\net8.0\simpleConsoleUniversityApp.runtimeconfig.json
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\bin\Debug\net8.0\simpleConsoleUniversityApp.dll
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\bin\Debug\net8.0\simpleConsoleUniversityApp.pdb
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\obj\Debug\net8.0\simpleConsoleUniversityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\obj\Debug\net8.0\simpleConsoleUniversityApp.AssemblyInfoInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\obj\Debug\net8.0\simpleConsoleUniversityApp.AssemblyInfo.cs
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\obj\Debug\net8.0\simpleConsoleUniversityApp.csproj.CoreCompileInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\obj\Debug\net8.0\simpleConsoleUniversityApp.sourcelink.json
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\obj\Debug\net8.0\simpleConsoleUniversityApp.dll
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\obj\Debug\net8.0\refint\simpleConsoleUniversityApp.dll
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\obj\Debug\net8.0\simpleConsoleUniversityApp.pdb
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\obj\Debug\net8.0\simpleConsoleUniversityApp.genruntimeconfig.cache
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleUniversityApp\simpleConsoleUniversityApp\obj\Debug\net8.0\ref\simpleConsoleUniversityApp.dll
