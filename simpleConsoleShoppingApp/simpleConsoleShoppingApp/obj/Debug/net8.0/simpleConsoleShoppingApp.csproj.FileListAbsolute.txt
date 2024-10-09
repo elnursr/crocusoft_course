@@ -1,0 +1,15 @@
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\bin\Debug\net8.0\simpleConsoleShoppingApp.exe
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\bin\Debug\net8.0\simpleConsoleShoppingApp.deps.json
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\bin\Debug\net8.0\simpleConsoleShoppingApp.runtimeconfig.json
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\bin\Debug\net8.0\simpleConsoleShoppingApp.dll
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\bin\Debug\net8.0\simpleConsoleShoppingApp.pdb
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\obj\Debug\net8.0\simpleConsoleShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\obj\Debug\net8.0\simpleConsoleShoppingApp.AssemblyInfoInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\obj\Debug\net8.0\simpleConsoleShoppingApp.AssemblyInfo.cs
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\obj\Debug\net8.0\simpleConsoleShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\obj\Debug\net8.0\simpleConsoleShoppingApp.sourcelink.json
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\obj\Debug\net8.0\simpleConsoleShoppingApp.dll
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\obj\Debug\net8.0\refint\simpleConsoleShoppingApp.dll
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\obj\Debug\net8.0\simpleConsoleShoppingApp.pdb
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\obj\Debug\net8.0\simpleConsoleShoppingApp.genruntimeconfig.cache
+C:\Users\x_pc\Documents\crocusoft_course\simpleConsoleShoppingApp\simpleConsoleShoppingApp\obj\Debug\net8.0\ref\simpleConsoleShoppingApp.dll

@@ -6,7 +6,7 @@ internal class Program
     {
         Person person = new Person("John", "Doe", 27);
 
-        Student student = new Student("Arif", "Abdulla", 22, 75, "B8");
+        Student student = new Student("Arif", "Abdulla", 22, 63, "B8");
 
         person.getInfo();
 
