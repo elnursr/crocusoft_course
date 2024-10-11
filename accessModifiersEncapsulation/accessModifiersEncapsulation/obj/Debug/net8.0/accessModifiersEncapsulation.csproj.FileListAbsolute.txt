@@ -1,0 +1,15 @@
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\bin\Debug\net8.0\accessModifiersEncapsulation.exe
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\bin\Debug\net8.0\accessModifiersEncapsulation.deps.json
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\bin\Debug\net8.0\accessModifiersEncapsulation.runtimeconfig.json
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\bin\Debug\net8.0\accessModifiersEncapsulation.dll
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\bin\Debug\net8.0\accessModifiersEncapsulation.pdb
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\obj\Debug\net8.0\accessModifiersEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\obj\Debug\net8.0\accessModifiersEncapsulation.AssemblyInfoInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\obj\Debug\net8.0\accessModifiersEncapsulation.AssemblyInfo.cs
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\obj\Debug\net8.0\accessModifiersEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\obj\Debug\net8.0\accessModifiersEncapsulation.sourcelink.json
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\obj\Debug\net8.0\accessModifiersEncapsulation.dll
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\obj\Debug\net8.0\refint\accessModifiersEncapsulation.dll
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\obj\Debug\net8.0\accessModifiersEncapsulation.pdb
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\obj\Debug\net8.0\accessModifiersEncapsulation.genruntimeconfig.cache
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiersEncapsulation\accessModifiersEncapsulation\obj\Debug\net8.0\ref\accessModifiersEncapsulation.dll

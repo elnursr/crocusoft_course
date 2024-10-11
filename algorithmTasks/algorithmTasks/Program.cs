@@ -78,31 +78,27 @@
 #endregion
 
 #region task_2_09_10_2024
+
 Console.Write("Please enter numbers: ");
-string symbols = Console.ReadLine();
+string symbols = Console.ReadLine();//-1,12,9,-17,25,13,-77,29,-48,28,78,96
 
+int sumNegativeNumber = 0;
+int sumEvenNumber = 1;
 
-string[] myArray = { symbols };
+string[] symbolArray = symbols.Split(",");
 
-Console.WriteLine(myArray);
+for (int i = 0; i < symbolArray.Length; i++)
+{
+    if (int.Parse(symbolArray[i]) < 0)
+    {
+        sumNegativeNumber += int.Parse(symbolArray[i]);
+    }
+    else if (int.Parse(symbolArray[i]) % 2 == 0)
+    {
+        sumEvenNumber *= int.Parse(symbolArray[i]);
+    }
+}
 
-//int[] myArray = [-1, 12, 9, -17, 25, 13, -77, 29, -48, 28, 78, 96];
-//int sumNegativeNumber = 0;
-//int sumEvenNumber = 1;
-
-//for (int i = 0; i < myArray.Length; i++)
-//{
-//    if (myArray[i] < 0)
-//    {
-//        sumNegativeNumber += myArray[i];
-//    }
-//    else if (myArray[i] % 2 == 0)
-//    {
-//        sumEvenNumber *= myArray[i];
-//    }
-//}
-
-//Console.WriteLine($"Your negative number sum is: {sumNegativeNumber}");
-
-//Console.WriteLine($"Your even number sum is: {sumEvenNumber}");
+Console.WriteLine($"Your negative number sum is: {sumNegativeNumber}");
+Console.WriteLine($"Your even number sum is: {sumEvenNumber}");
 #endregion
