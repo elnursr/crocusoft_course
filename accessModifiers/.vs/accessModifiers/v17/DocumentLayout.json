@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\accessModifiers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|c:\\users\\x_pc\\documents\\crocusoft_course\\accessmodifiers\\accessmodifiers\\models\\university\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|solutionrelative:accessmodifiers\\models\\university\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|c:\\users\\x_pc\\documents\\crocusoft_course\\accessmodifiers\\accessmodifiers\\models\\university\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|solutionrelative:accessmodifiers\\models\\university\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|c:\\users\\x_pc\\documents\\crocusoft_course\\accessmodifiers\\accessmodifiers\\models\\university\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|solutionrelative:accessmodifiers\\models\\university\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|c:\\users\\x_pc\\documents\\crocusoft_course\\accessmodifiers\\accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|solutionrelative:accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|c:\\users\\x_pc\\documents\\crocusoft_course\\accessmodifiers\\accessmodifiers\\models\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|solutionrelative:accessmodifiers\\models\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|c:\\users\\x_pc\\documents\\crocusoft_course\\accessmodifiers\\accessmodifiers\\models\\university\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|solutionrelative:accessmodifiers\\models\\university\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|c:\\users\\x_pc\\documents\\crocusoft_course\\accessmodifiers\\accessmodifiers\\models\\university\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|solutionrelative:accessmodifiers\\models\\university\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|c:\\users\\x_pc\\documents\\crocusoft_course\\accessmodifiers\\accessmodifiers\\models\\university\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E5701BF-44B8-4FAA-881A-9921D9340F21}|accessModifiers\\accessModifiers.csproj|solutionrelative:accessmodifiers\\models\\university\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\accessModifiers\\accessModifiers\\Program.cs",
               "RelativeDocumentMoniker": "accessModifiers\\Program.cs",
@@ -63,32 +63,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "studentGroup.cs",
               "DocumentMoniker": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\accessModifiers\\accessModifiers\\Models\\University\\studentGroup.cs",
               "RelativeDocumentMoniker": "accessModifiers\\Models\\University\\studentGroup.cs",
               "ToolTip": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\accessModifiers\\accessModifiers\\Models\\University\\studentGroup.cs",
               "RelativeToolTip": "accessModifiers\\Models\\University\\studentGroup.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T20:56:34.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\accessModifiers\\accessModifiers\\Models\\University\\Person.cs",
               "RelativeDocumentMoniker": "accessModifiers\\Models\\University\\Person.cs",
               "ToolTip": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\accessModifiers\\accessModifiers\\Models\\University\\Person.cs",
               "RelativeToolTip": "accessModifiers\\Models\\University\\Person.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T20:56:30.767Z"
+              "WhenOpened": "2024-10-12T20:56:30.767Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\accessModifiers\\accessModifiers\\Models\\University\\Student.cs",
               "RelativeDocumentMoniker": "accessModifiers\\Models\\University\\Student.cs",
@@ -96,11 +97,12 @@
               "RelativeToolTip": "accessModifiers\\Models\\University\\Student.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T20:56:25.549Z"
+              "WhenOpened": "2024-10-12T20:56:25.549Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\accessModifiers\\accessModifiers\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "accessModifiers\\Models\\Employee.cs",
@@ -108,12 +110,11 @@
               "RelativeToolTip": "accessModifiers\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T20:43:02.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T20:43:02.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\accessModifiers\\accessModifiers\\Models\\Manager.cs",
               "RelativeDocumentMoniker": "accessModifiers\\Models\\Manager.cs",
@@ -121,12 +122,11 @@
               "RelativeToolTip": "accessModifiers\\Models\\Manager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T20:42:58.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T20:42:58.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Assistant.cs",
               "DocumentMoniker": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\accessModifiers\\accessModifiers\\Models\\Assistant.cs",
               "RelativeDocumentMoniker": "accessModifiers\\Models\\Assistant.cs",
@@ -134,8 +134,7 @@
               "RelativeToolTip": "accessModifiers\\Models\\Assistant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T20:42:32.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T20:42:32.692Z"
             }
           ]
         }

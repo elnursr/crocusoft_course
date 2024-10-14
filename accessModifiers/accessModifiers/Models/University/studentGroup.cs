@@ -16,18 +16,18 @@ namespace accessModifiers.Models.University
 
         //fields
         private string _groupName;
-        private string[] _students;
+        private Student[] _students;
 
         //methods
         public void addStudent()
         {
 
         }
-        public void getAllStudents(Student[] students)
+        public void getAllStudents(Student[] student)
         {
-            for (int i = 0; i < students.Length; i++)
+            for (int i = 0; i < student.Length; i++)
             {
-                Console.WriteLine($"Your fullname: {students[i].firstName} {students[i].lastName}\nYour group name: {this._groupName}");
+                Console.WriteLine($"Your fullname: {student[i].firstName} {student[i].lastName}\nYour group name: {this._groupName}");
             }
         }
         public void getOnlineStudents()

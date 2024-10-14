@@ -13,7 +13,7 @@ namespace accessModifiersEncapsulation
 
             Dog dog = new Dog("Leo", "Male", "German Shepherd");
             //dog.Breed = "Alaskan Malamute";
-            //dog.BirthYear = 2024;
+            //dog.BirthYear = 2027;
             Console.WriteLine(dog.BirthYear);
         }
     }

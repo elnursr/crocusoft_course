@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("accessModifiersEncapsulation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41de42a264346ed9f38a2a6c616809540ec965c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6088ad64789f00a2f40f571671207a67fa1095e")]
 [assembly: System.Reflection.AssemblyProductAttribute("accessModifiersEncapsulation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("accessModifiersEncapsulation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
