@@ -1,0 +1,15 @@
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\bin\Debug\net8.0\accessModifiers.exe
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\bin\Debug\net8.0\accessModifiers.deps.json
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\bin\Debug\net8.0\accessModifiers.runtimeconfig.json
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\bin\Debug\net8.0\accessModifiers.dll
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\bin\Debug\net8.0\accessModifiers.pdb
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.AssemblyInfoInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.AssemblyInfo.cs
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.sourcelink.json
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.dll
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\obj\Debug\net8.0\refint\accessModifiers.dll
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.pdb
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\obj\Debug\net8.0\accessModifiers.genruntimeconfig.cache
+C:\Users\x_pc\Documents\crocusoft_course\accessModifiers\accessModifiers\obj\Debug\net8.0\ref\accessModifiers.dll

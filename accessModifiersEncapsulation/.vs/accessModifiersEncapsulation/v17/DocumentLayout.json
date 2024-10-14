@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "accessModifiersEncapsulation\\Models\\Dog.cs",
               "ToolTip": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\accessModifiersEncapsulation\\accessModifiersEncapsulation\\Models\\Dog.cs",
               "RelativeToolTip": "accessModifiersEncapsulation\\Models\\Dog.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T20:02:17.913Z",
               "EditorCaption": ""
@@ -49,7 +53,7 @@
               "RelativeDocumentMoniker": "accessModifiersEncapsulation\\Models\\Animal.cs",
               "ToolTip": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\accessModifiersEncapsulation\\accessModifiersEncapsulation\\Models\\Animal.cs",
               "RelativeToolTip": "accessModifiersEncapsulation\\Models\\Animal.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T19:53:19.228Z",
               "EditorCaption": ""
@@ -64,8 +68,7 @@
               "RelativeToolTip": "accessModifiersEncapsulation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T19:52:38.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T19:52:38.145Z"
             }
           ]
         }
