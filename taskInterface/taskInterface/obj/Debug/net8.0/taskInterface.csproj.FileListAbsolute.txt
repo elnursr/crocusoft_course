@@ -1,0 +1,14 @@
+C:\Users\x_pc\source\repos\taskInterface\taskInterface\bin\Debug\net8.0\taskInterface.exe
+C:\Users\x_pc\source\repos\taskInterface\taskInterface\bin\Debug\net8.0\taskInterface.deps.json
+C:\Users\x_pc\source\repos\taskInterface\taskInterface\bin\Debug\net8.0\taskInterface.runtimeconfig.json
+C:\Users\x_pc\source\repos\taskInterface\taskInterface\bin\Debug\net8.0\taskInterface.dll
+C:\Users\x_pc\source\repos\taskInterface\taskInterface\bin\Debug\net8.0\taskInterface.pdb
+C:\Users\x_pc\source\repos\taskInterface\taskInterface\obj\Debug\net8.0\taskInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_pc\source\repos\taskInterface\taskInterface\obj\Debug\net8.0\taskInterface.AssemblyInfoInputs.cache
+C:\Users\x_pc\source\repos\taskInterface\taskInterface\obj\Debug\net8.0\taskInterface.AssemblyInfo.cs
+C:\Users\x_pc\source\repos\taskInterface\taskInterface\obj\Debug\net8.0\taskInterface.csproj.CoreCompileInputs.cache
+C:\Users\x_pc\source\repos\taskInterface\taskInterface\obj\Debug\net8.0\taskInterface.dll
+C:\Users\x_pc\source\repos\taskInterface\taskInterface\obj\Debug\net8.0\refint\taskInterface.dll
+C:\Users\x_pc\source\repos\taskInterface\taskInterface\obj\Debug\net8.0\taskInterface.pdb
+C:\Users\x_pc\source\repos\taskInterface\taskInterface\obj\Debug\net8.0\taskInterface.genruntimeconfig.cache
+C:\Users\x_pc\source\repos\taskInterface\taskInterface\obj\Debug\net8.0\ref\taskInterface.dll
