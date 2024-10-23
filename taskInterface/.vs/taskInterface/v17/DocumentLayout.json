@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\x_pc\\source\\repos\\taskInterface\\",
+  "WorkspaceRootPath": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\taskInterface\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E2EEC44-1949-4D7F-A488-D82215C2A088}|taskInterface\\taskInterface.csproj|c:\\users\\x_pc\\source\\repos\\taskinterface\\taskinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E2EEC44-1949-4D7F-A488-D82215C2A088}|taskInterface\\taskInterface.csproj|solutionrelative:taskinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E2EEC44-1949-4D7F-A488-D82215C2A088}|taskInterface\\taskInterface.csproj|c:\\users\\x_pc\\source\\repos\\taskinterface\\taskinterface\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E2EEC44-1949-4D7F-A488-D82215C2A088}|taskInterface\\taskInterface.csproj|c:\\users\\x_pc\\documents\\crocusoft_course\\taskinterface\\taskinterface\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E2EEC44-1949-4D7F-A488-D82215C2A088}|taskInterface\\taskInterface.csproj|solutionrelative:taskinterface\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E2EEC44-1949-4D7F-A488-D82215C2A088}|taskInterface\\taskInterface.csproj|c:\\users\\x_pc\\source\\repos\\taskinterface\\taskinterface\\interfaces\\iemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E2EEC44-1949-4D7F-A488-D82215C2A088}|taskInterface\\taskInterface.csproj|c:\\users\\x_pc\\documents\\crocusoft_course\\taskinterface\\taskinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2EEC44-1949-4D7F-A488-D82215C2A088}|taskInterface\\taskInterface.csproj|solutionrelative:taskinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2EEC44-1949-4D7F-A488-D82215C2A088}|taskInterface\\taskInterface.csproj|c:\\users\\x_pc\\documents\\crocusoft_course\\taskinterface\\taskinterface\\interfaces\\iemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E2EEC44-1949-4D7F-A488-D82215C2A088}|taskInterface\\taskInterface.csproj|solutionrelative:taskinterface\\interfaces\\iemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -36,37 +36,37 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IEmail.cs",
-              "DocumentMoniker": "C:\\Users\\x_pc\\source\\repos\\taskInterface\\taskInterface\\Interfaces\\IEmail.cs",
+              "DocumentMoniker": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\taskInterface\\taskInterface\\Interfaces\\IEmail.cs",
               "RelativeDocumentMoniker": "taskInterface\\Interfaces\\IEmail.cs",
-              "ToolTip": "C:\\Users\\x_pc\\source\\repos\\taskInterface\\taskInterface\\Interfaces\\IEmail.cs",
+              "ToolTip": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\taskInterface\\taskInterface\\Interfaces\\IEmail.cs",
               "RelativeToolTip": "taskInterface\\Interfaces\\IEmail.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T16:05:25.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\x_pc\\source\\repos\\taskInterface\\taskInterface\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\taskInterface\\taskInterface\\Student.cs",
               "RelativeDocumentMoniker": "taskInterface\\Student.cs",
-              "ToolTip": "C:\\Users\\x_pc\\source\\repos\\taskInterface\\taskInterface\\Student.cs",
+              "ToolTip": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\taskInterface\\taskInterface\\Student.cs",
               "RelativeToolTip": "taskInterface\\Student.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T15:52:08.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\x_pc\\source\\repos\\taskInterface\\taskInterface\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\taskInterface\\taskInterface\\Program.cs",
               "RelativeDocumentMoniker": "taskInterface\\Program.cs",
-              "ToolTip": "C:\\Users\\x_pc\\source\\repos\\taskInterface\\taskInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\taskInterface\\taskInterface\\Program.cs",
               "RelativeToolTip": "taskInterface\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T15:49:40.914Z",
               "EditorCaption": ""

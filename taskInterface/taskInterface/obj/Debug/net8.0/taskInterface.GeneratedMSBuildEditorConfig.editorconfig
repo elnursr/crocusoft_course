@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = taskInterface
-build_property.ProjectDir = C:\Users\x_pc\source\repos\taskInterface\taskInterface\
+build_property.ProjectDir = C:\Users\x_pc\Documents\crocusoft_course\taskInterface\taskInterface\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

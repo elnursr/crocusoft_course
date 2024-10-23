@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\x_pc\\source\\repos\\polymorphism\\polymorphism\\polymorphism.csproj": {}
+    "C:\\Users\\x_pc\\Documents\\crocusoft_course\\polymorphism\\polymorphism\\polymorphism.csproj": {}
   },
   "projects": {
-    "C:\\Users\\x_pc\\source\\repos\\polymorphism\\polymorphism\\polymorphism.csproj": {
+    "C:\\Users\\x_pc\\Documents\\crocusoft_course\\polymorphism\\polymorphism\\polymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\x_pc\\source\\repos\\polymorphism\\polymorphism\\polymorphism.csproj",
+        "projectUniqueName": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\polymorphism\\polymorphism\\polymorphism.csproj",
         "projectName": "polymorphism",
-        "projectPath": "C:\\Users\\x_pc\\source\\repos\\polymorphism\\polymorphism\\polymorphism.csproj",
+        "projectPath": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\polymorphism\\polymorphism\\polymorphism.csproj",
         "packagesPath": "C:\\Users\\x_pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\x_pc\\source\\repos\\polymorphism\\polymorphism\\obj\\",
+        "outputPath": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\polymorphism\\polymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\x_pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

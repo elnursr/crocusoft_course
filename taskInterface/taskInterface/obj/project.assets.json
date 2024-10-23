@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\x_pc\\source\\repos\\taskInterface\\taskInterface\\taskInterface.csproj",
+      "projectUniqueName": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\taskInterface\\taskInterface\\taskInterface.csproj",
       "projectName": "taskInterface",
-      "projectPath": "C:\\Users\\x_pc\\source\\repos\\taskInterface\\taskInterface\\taskInterface.csproj",
+      "projectPath": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\taskInterface\\taskInterface\\taskInterface.csproj",
       "packagesPath": "C:\\Users\\x_pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\x_pc\\source\\repos\\taskInterface\\taskInterface\\obj\\",
+      "outputPath": "C:\\Users\\x_pc\\Documents\\crocusoft_course\\taskInterface\\taskInterface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\x_pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

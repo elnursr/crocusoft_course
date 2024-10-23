@@ -1,0 +1,15 @@
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\bin\Debug\net8.0\simpleParkingApp.exe
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\bin\Debug\net8.0\simpleParkingApp.deps.json
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\bin\Debug\net8.0\simpleParkingApp.runtimeconfig.json
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\bin\Debug\net8.0\simpleParkingApp.dll
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\bin\Debug\net8.0\simpleParkingApp.pdb
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\obj\Debug\net8.0\simpleParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\obj\Debug\net8.0\simpleParkingApp.AssemblyInfoInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\obj\Debug\net8.0\simpleParkingApp.AssemblyInfo.cs
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\obj\Debug\net8.0\simpleParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\obj\Debug\net8.0\simpleParkingApp.sourcelink.json
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\obj\Debug\net8.0\simpleParkingApp.dll
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\obj\Debug\net8.0\refint\simpleParkingApp.dll
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\obj\Debug\net8.0\simpleParkingApp.pdb
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\obj\Debug\net8.0\simpleParkingApp.genruntimeconfig.cache
+C:\Users\x_pc\Documents\crocusoft_course\simpleParkingApp\simpleParkingApp\obj\Debug\net8.0\ref\simpleParkingApp.dll
