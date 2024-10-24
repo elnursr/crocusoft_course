@@ -1,0 +1,15 @@
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\bin\Debug\net8.0\taskReflection.exe
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\bin\Debug\net8.0\taskReflection.deps.json
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\bin\Debug\net8.0\taskReflection.runtimeconfig.json
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\bin\Debug\net8.0\taskReflection.dll
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\bin\Debug\net8.0\taskReflection.pdb
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\obj\Debug\net8.0\taskReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\obj\Debug\net8.0\taskReflection.AssemblyInfoInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\obj\Debug\net8.0\taskReflection.AssemblyInfo.cs
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\obj\Debug\net8.0\taskReflection.csproj.CoreCompileInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\obj\Debug\net8.0\taskReflection.sourcelink.json
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\obj\Debug\net8.0\taskReflection.dll
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\obj\Debug\net8.0\refint\taskReflection.dll
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\obj\Debug\net8.0\taskReflection.pdb
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\obj\Debug\net8.0\taskReflection.genruntimeconfig.cache
+C:\Users\x_pc\Documents\crocusoft_course\taskReflection\taskReflection\obj\Debug\net8.0\ref\taskReflection.dll
