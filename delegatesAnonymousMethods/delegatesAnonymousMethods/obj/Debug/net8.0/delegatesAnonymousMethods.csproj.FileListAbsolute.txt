@@ -1,0 +1,15 @@
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\bin\Debug\net8.0\delegatesAnonymousMethods.exe
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\bin\Debug\net8.0\delegatesAnonymousMethods.deps.json
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\bin\Debug\net8.0\delegatesAnonymousMethods.runtimeconfig.json
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\bin\Debug\net8.0\delegatesAnonymousMethods.dll
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\bin\Debug\net8.0\delegatesAnonymousMethods.pdb
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\obj\Debug\net8.0\delegatesAnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\obj\Debug\net8.0\delegatesAnonymousMethods.AssemblyInfoInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\obj\Debug\net8.0\delegatesAnonymousMethods.AssemblyInfo.cs
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\obj\Debug\net8.0\delegatesAnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\obj\Debug\net8.0\delegatesAnonymousMethods.sourcelink.json
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\obj\Debug\net8.0\delegatesAnonymousMethods.dll
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\obj\Debug\net8.0\refint\delegatesAnonymousMethods.dll
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\obj\Debug\net8.0\delegatesAnonymousMethods.pdb
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\obj\Debug\net8.0\delegatesAnonymousMethods.genruntimeconfig.cache
+C:\Users\x_pc\Documents\crocusoft_course\delegatesAnonymousMethods\delegatesAnonymousMethods\obj\Debug\net8.0\ref\delegatesAnonymousMethods.dll

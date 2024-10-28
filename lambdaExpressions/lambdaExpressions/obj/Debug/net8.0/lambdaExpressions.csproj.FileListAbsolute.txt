@@ -1,0 +1,15 @@
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.exe
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.deps.json
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.runtimeconfig.json
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.dll
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.pdb
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.AssemblyInfo.cs
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.sourcelink.json
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.dll
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\refint\lambdaExpressions.dll
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.pdb
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.genruntimeconfig.cache
+C:\Users\x_pc\Documents\crocusoft_course\lambdaExpressions\lambdaExpressions\obj\Debug\net8.0\ref\lambdaExpressions.dll
